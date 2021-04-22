@@ -7,4 +7,3 @@ if ($Account == "YuukiAyano" && $Password == "Ayano1227") {
 } else {
     echo "<script src=\"./js/accessdenied.js\"></script>";
 }
-?>
