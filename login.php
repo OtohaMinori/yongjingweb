@@ -8,8 +8,8 @@
 </head>
 
 <body>
-    <h1 class="warning">WARNING！</h1>
-    <h2 class="announcement">Make sure nobody is peeking！</h2>
+    <h1 class="warning">警告！</h1>
+    <h2 class="announcement">請確保沒人在嘗試竊取密碼！</h2>
     <form action="./loginsystem.php" method="post">
         <pre>
             <label for="Account">Account:&#9;<input type="text" name="Account" id="" size="16" maxlength="12"><br></label>
