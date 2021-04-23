@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+  background-color: #ffa500;
+}
+h1 {
+  font-weight: bold;
+}
+.warning {
+  color: red;
+}
+.announcement {
+  font-style: italic;
+  color: red;
+}
+pre {
+  color: #000000;
+  font-size: 40px;
+}
