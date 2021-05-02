@@ -4,10 +4,10 @@
 
 <body>
     <frameset rows="300,*" cols="*">
-        <frame src="./title.html" name="topframe" title="top" />
+        <frame src="title.html" name="topframe" title="top" />
         <frameset rows="*" cols="20%, 80%">
-            <frame src="./sidebar.html" name="leftframe" title="left" />
-            <frame src="./home.html" name="rightframe" title="right" />
+            <frame src="sidebar.html" name="leftframe" title="left" />
+            <frame src="home.html" name="rightframe" title="right" />
         </frameset>
     </frameset>
 </body>
